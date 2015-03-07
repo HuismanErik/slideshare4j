@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slideshows>
+  <Meta>
+    <Query>javascript</Query>
+    <ResultOffset>1</ResultOffset>
+    <NumResults>12</NumResults>
+    <TotalResults>15799</TotalResults>
+  </Meta>
+<Slideshow>
+  <ID>1041724</ID>
+  <Title>Javascript Best Practices</Title>
+  <Description>A presentation about tricks and best practice ideas of how to use JavaScript given in our office in India as part of an internal training.</Description>
+  <Status>2</Status>
+  <Username>cheilmann</Username>
+  <URL>http://www.slideshare.net/cheilmann/javascript-best-practices-1041724</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/javascriptbestpractices-1234957342527920-2-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/javascriptbestpractices-1234957342527920-2-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_1041724&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/cheilmann/javascript-best-practices-1041724&quot; title=&quot;Javascript Best Practices&quot;&gt;Javascript Best Practices&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse1041724&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javascriptbestpractices-1234957342527920-2&amp;stripped_title=javascript-best-practices-1041724&amp;userName=cheilmann&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse1041724&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javascriptbestpractices-1234957342527920-2&amp;stripped_title=javascript-best-practices-1041724&amp;userName=cheilmann&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/cheilmann&quot;&gt;Christian Heilmann&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Wed Feb 18 05:44:23 -0600 2009</Created>
+  <Updated>Wed Feb 18 23:13:48 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javascriptbestpractices-1234957342527920-2.pdf?Signature=cjq3S9IDRedu%2FpA4fGxuXa4aNKc%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>12908</UserID>
+  <PPTLocation>javascriptbestpractices-1234957342527920-2</PPTLocation>
+  <StrippedTitle>javascript-best-practices-1041724</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">it</Tag>
+    <Tag Count="3" Owner="1">bestpractices</Tag>
+    <Tag Count="1" Owner="0">coding</Tag>
+    <Tag Count="1" Owner="0">technologies</Tag>
+    <Tag Count="3" Owner="0">webdev</Tag>
+    <Tag Count="1" Owner="0">code</Tag>
+    <Tag Count="1" Owner="1">tricks</Tag>
+    <Tag Count="1" Owner="0">chris</Tag>
+    <Tag Count="1" Owner="0">css</Tag>
+    <Tag Count="1" Owner="0">js - best practice</Tag>
+    <Tag Count="1" Owner="0">&#8220;best</Tag>
+    <Tag Count="1" Owner="0">gwt</Tag>
+    <Tag Count="3" Owner="0">practices</Tag>
+    <Tag Count="3" Owner="0">best</Tag>
+    <Tag Count="1" Owner="0">optimization</Tag>
+    <Tag Count="1" Owner="0">ajax</Tag>
+    <Tag Count="1" Owner="1">tips</Tag>
+    <Tag Count="1" Owner="0">javasript best practices</Tag>
+    <Tag Count="1" Owner="0">performances</Tag>
+    <Tag Count="1" Owner="0">to read</Tag>
+    <Tag Count="1" Owner="0">unobtrusive</Tag>
+    <Tag Count="1" Owner="0">javascriptbest</Tag>
+    <Tag Count="1" Owner="0">heilman</Tag>
+    <Tag Count="52" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">practices&#8221;</Tag>
+    <Tag Count="1" Owner="0">christian heimann</Tag>
+    <Tag Count="1" Owner="0">practice</Tag>
+    <Tag Count="6" Owner="0">js</Tag>
+    <Tag Count="1" Owner="1">webdevtrick</Tag>
+    <Tag Count="2" Owner="0">javascript best-practices christian-heilmann</Tag>
+    <Tag Count="1" Owner="0">best prectice</Tag>
+    <Tag Count="1" Owner="0">jquery</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>812</NumDownloads>
+  <NumViews>21388</NumViews>
+  <NumComments>2</NumComments>
+  <NumFavorites>89</NumFavorites>
+  <NumSlides>145</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">62293</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">93987</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">143885</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">174396</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">319798</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">390708</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1041724</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1579430</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">1738370</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">2424855</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>174396</ID>
+  <Title>Metaprogramming  JavaScript</Title>
+  <Description>As presented at @media Ajax in London on the 20th November 2007.</Description>
+  <Status>2</Status>
+  <Username>danwrong</Username>
+  <URL>http://www.slideshare.net/danwrong/metaprogramming-javascript</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/metaprogramming-javascript-1195638729182448-3-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/metaprogramming-javascript-1195638729182448-3-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_174396&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/danwrong/metaprogramming-javascript&quot; title=&quot;Metaprogramming  JavaScript&quot;&gt;Metaprogramming  JavaScript&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse174396&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=metaprogramming-javascript-1195638729182448-3&amp;stripped_title=metaprogramming-javascript&amp;userName=danwrong&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse174396&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=metaprogramming-javascript-1195638729182448-3&amp;stripped_title=metaprogramming-javascript&amp;userName=danwrong&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/danwrong&quot;&gt;danwrong&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Wed Nov 21 01:52:10 -0600 2007</Created>
+  <Updated>Wed Nov 21 01:52:10 -0600 2007</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/metaprogramming-javascript-1195638729182448-3.pdf?Signature=mt%2FC74RkSlmzxeQWolMTINiM5WI%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>38923</UserID>
+  <PPTLocation>metaprogramming-javascript-1195638729182448-3</PPTLocation>
+  <StrippedTitle>metaprogramming-javascript</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">web2.0</Tag>
+    <Tag Count="1" Owner="0">domscripting</Tag>
+    <Tag Count="2" Owner="0">webdev</Tag>
+    <Tag Count="1" Owner="0">closures</Tag>
+    <Tag Count="1" Owner="0">semantics</Tag>
+    <Tag Count="9" Owner="1">metaprogramming</Tag>
+    <Tag Count="1" Owner="0">javascript metaprogramming</Tag>
+    <Tag Count="1" Owner="0">prototype</Tag>
+    <Tag Count="1" Owner="0">language</Tag>
+    <Tag Count="1" Owner="0">excellent_presentation</Tag>
+    <Tag Count="1" Owner="0">meta</Tag>
+    <Tag Count="1" Owner="0">in</Tag>
+    <Tag Count="3" Owner="0">programming</Tag>
+    <Tag Count="45" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">functions</Tag>
+    <Tag Count="1" Owner="0">programing</Tag>
+    <Tag Count="1" Owner="1">atmedia</Tag>
+    <Tag Count="1" Owner="0">dan webb</Tag>
+    <Tag Count="1" Owner="0">frontend</Tag>
+    <Tag Count="5" Owner="0">js</Tag>
+    <Tag Count="2" Owner="0">objects</Tag>
+    <Tag Count="3" Owner="1">danwebb</Tag>
+    <Tag Count="1" Owner="0">programmeerimine</Tag>
+    <Tag Count="1" Owner="1">atmediaajax</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>1183</NumDownloads>
+  <NumViews>31740</NumViews>
+  <NumComments>5</NumComments>
+  <NumFavorites>67</NumFavorites>
+  <NumSlides>94</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">119692</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1727900</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">953269</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">978961</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">3843763</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1738370</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1339548</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1188958</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">193171</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">174396</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>1964440</ID>
+  <Title>Scalable JavaScript Application Architecture</Title>
+  <Description>Discover how to build a JavaScript application framework that scales for the challenges of today&amp;rsquo;s complex web applications.</Description>
+  <Status>2</Status>
+  <Username>nzakas</Username>
+  <URL>http://www.slideshare.net/nzakas/scalable-javascript-application-architecture</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/scalable-javascript-application-architecture-090907152059-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/scalable-javascript-application-architecture-090907152059-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_1964440&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/nzakas/scalable-javascript-application-architecture&quot; title=&quot;Scalable JavaScript Application Architecture&quot;&gt;Scalable JavaScript Application Architecture&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse1964440&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalable-javascript-application-architecture-090907152059-phpapp02&amp;stripped_title=scalable-javascript-application-architecture&amp;userName=nzakas&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse1964440&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scalable-javascript-application-architecture-090907152059-phpapp02&amp;stripped_title=scalable-javascript-application-architecture&amp;userName=nzakas&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/nzakas&quot;&gt;Nicholas Zakas&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Mon Sep 07 15:20:58 -0500 2009</Created>
+  <Updated>Wed Sep 09 01:07:30 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/scalable-javascript-application-architecture-090907152059-phpapp02.pdf?Signature=%2FMMcBcxozonljNojWtJrbBncXTc%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>9524039</UserID>
+  <PPTLocation>scalable-javascript-application-architecture-090907152059-phpapp02</PPTLocation>
+  <StrippedTitle>scalable-javascript-application-architecture</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">nicholas zackas</Tag>
+    <Tag Count="1" Owner="0">javascript scalable architecture</Tag>
+    <Tag Count="1" Owner="0">javascript web-dev</Tag>
+    <Tag Count="1" Owner="0">zakas</Tag>
+    <Tag Count="1" Owner="0">wepapp</Tag>
+    <Tag Count="1" Owner="0">js architecture</Tag>
+    <Tag Count="3" Owner="0">framework</Tag>
+    <Tag Count="1" Owner="0">scalable javascript application architecture</Tag>
+    <Tag Count="3" Owner="0">yui</Tag>
+    <Tag Count="1" Owner="0">code frontend javascript</Tag>
+    <Tag Count="1" Owner="0">javascript application software</Tag>
+    <Tag Count="1" Owner="0">archetecture</Tag>
+    <Tag Count="1" Owner="0">software architecture</Tag>
+    <Tag Count="1" Owner="0">front-end</Tag>
+    <Tag Count="3" Owner="0">scalable</Tag>
+    <Tag Count="1" Owner="0">scalable javascript</Tag>
+    <Tag Count="1" Owner="0">javascript yui</Tag>
+    <Tag Count="1" Owner="0">javascript scalable performance</Tag>
+    <Tag Count="1" Owner="0">separate tags by comma</Tag>
+    <Tag Count="1" Owner="0">performace</Tag>
+    <Tag Count="1" Owner="0">arch</Tag>
+    <Tag Count="1" Owner="0">develop javascript architecture</Tag>
+    <Tag Count="2" Owner="0">application</Tag>
+    <Tag Count="1" Owner="1">oop</Tag>
+    <Tag Count="1" Owner="0">modularization</Tag>
+    <Tag Count="1" Owner="0">nicholas</Tag>
+    <Tag Count="51" Owner="1">javascript</Tag>
+    <Tag Count="2" Owner="0">application architecture</Tag>
+    <Tag Count="1" Owner="0">framework javascript</Tag>
+    <Tag Count="4" Owner="0">javascript architecture</Tag>
+    <Tag Count="3" Owner="0">scalability</Tag>
+    <Tag Count="7" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">web</Tag>
+    <Tag Count="1" Owner="0">dev</Tag>
+    <Tag Count="1" Owner="1">nzakas</Tag>
+    <Tag Count="8" Owner="1">architecture</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>1121</NumDownloads>
+  <NumViews>25596</NumViews>
+  <NumComments>31</NumComments>
+  <NumFavorites>127</NumFavorites>
+  <NumSlides>105</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">3457120</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1032528</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1041724</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">908356</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">3338031</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">108012</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">3948603</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1579430</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">1469084</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">2322599</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>143885</ID>
+  <Title>JavaScript Library Overview</Title>
+  <Description>JavaScript Library tutorial that I gave at the October 2007 Ajax Experience conference.</Description>
+  <Status>2</Status>
+  <Username>jeresig</Username>
+  <URL>http://www.slideshare.net/jeresig/javascript-library-overview</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/javascript-library-overview-1193202840830224-1-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/javascript-library-overview-1193202840830224-1-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_143885&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/jeresig/javascript-library-overview&quot; title=&quot;JavaScript Library Overview&quot;&gt;JavaScript Library Overview&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse143885&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javascript-library-overview-1193202840830224-1&amp;stripped_title=javascript-library-overview&amp;userName=jeresig&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse143885&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javascript-library-overview-1193202840830224-1&amp;stripped_title=javascript-library-overview&amp;userName=jeresig&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/jeresig&quot;&gt;jeresig&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Tue Oct 23 22:14:02 -0500 2007</Created>
+  <Updated>Fri Sep 19 05:51:25 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javascript-library-overview-1193202840830224-1.pdf?Signature=q8n%2Bp35cAkjCBFkiOi6lXv653uU%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>53665</UserID>
+  <PPTLocation>javascript-library-overview-1193202840830224-1</PPTLocation>
+  <StrippedTitle>javascript-library-overview</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">javascirpt</Tag>
+    <Tag Count="1" Owner="0">web2.0</Tag>
+    <Tag Count="2" Owner="0">resig</Tag>
+    <Tag Count="1" Owner="0">domscripting</Tag>
+    <Tag Count="1" Owner="0">frameworks</Tag>
+    <Tag Count="1" Owner="0">webdev</Tag>
+    <Tag Count="1" Owner="0">yahoo ui</Tag>
+    <Tag Count="1" Owner="0">john</Tag>
+    <Tag Count="1" Owner="0">code</Tag>
+    <Tag Count="4" Owner="1">yui</Tag>
+    <Tag Count="1" Owner="0">libraly</Tag>
+    <Tag Count="1" Owner="0">mootools</Tag>
+    <Tag Count="1" Owner="0">overview</Tag>
+    <Tag Count="1" Owner="0">librarie</Tag>
+    <Tag Count="1" Owner="0">karaoke</Tag>
+    <Tag Count="2" Owner="0">java</Tag>
+    <Tag Count="12" Owner="0">ajax</Tag>
+    <Tag Count="6" Owner="1">prototype</Tag>
+    <Tag Count="1" Owner="0">javascript-libraries</Tag>
+    <Tag Count="1" Owner="0">john resigjavascriptlibraries</Tag>
+    <Tag Count="1" Owner="0">javascipt</Tag>
+    <Tag Count="1" Owner="0">stic</Tag>
+    <Tag Count="1" Owner="0">js lib</Tag>
+    <Tag Count="1" Owner="0">2007</Tag>
+    <Tag Count="1" Owner="0">accessibility</Tag>
+    <Tag Count="2" Owner="0">programming</Tag>
+    <Tag Count="12" Owner="1">libraries</Tag>
+    <Tag Count="64" Owner="1">javascript</Tag>
+    <Tag Count="2" Owner="0">libs</Tag>
+    <Tag Count="1" Owner="0">webdesign</Tag>
+    <Tag Count="2" Owner="0">development</Tag>
+    <Tag Count="8" Owner="0">library</Tag>
+    <Tag Count="6" Owner="1">dojo</Tag>
+    <Tag Count="2" Owner="0">javascript library</Tag>
+    <Tag Count="1" Owner="0">javascript libraries</Tag>
+    <Tag Count="1" Owner="0">scriptaculous</Tag>
+    <Tag Count="1" Owner="0">develop</Tag>
+    <Tag Count="8" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">compare</Tag>
+    <Tag Count="1" Owner="0">comparison</Tag>
+    <Tag Count="1" Owner="0">ppt</Tag>
+    <Tag Count="2" Owner="0">web</Tag>
+    <Tag Count="1" Owner="0">john-resig</Tag>
+    <Tag Count="1" Owner="0">webapplication</Tag>
+    <Tag Count="1" Owner="0">javscript</Tag>
+    <Tag Count="1" Owner="0">scripts</Tag>
+    <Tag Count="1" Owner="0">design</Tag>
+    <Tag Count="17" Owner="1">jquery</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>2574</NumDownloads>
+  <NumViews>65484</NumViews>
+  <NumComments>16</NumComments>
+  <NumFavorites>141</NumFavorites>
+  <NumSlides>83</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">632753</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">908374</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">303125</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">143885</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">3020087</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">2957285</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">2662434</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">3095493</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">1659450</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">145849</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>2449719</ID>
+  <Title>Extreme JavaScript Performance</Title>
+  <Description>Talk given at http://jsconf.eu 2009.
+
+You serve up your code gzipped. Your caches are properly configured. Your data (and scripts) are loaded on-demand. That&amp;rsquo;s awesome&#8212;so don&amp;rsquo;t stop there. Runtime is another source of slowdowns, and you can learn to conquer those, too.
+
+Learn how to benchmark your code to isolate performance issues, and what to do when you find them. The techniques you&amp;rsquo;ll learn range from the normal (function inlining) to the extreme (unrolling loops).</Description>
+  <Status>2</Status>
+  <Username>madrobby</Username>
+  <URL>http://www.slideshare.net/madrobby/extreme-javascript-performance</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/2449719-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/2449719-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_2449719&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/madrobby/extreme-javascript-performance&quot; title=&quot;Extreme JavaScript Performance&quot;&gt;Extreme JavaScript Performance&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse2449719&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=2449719&amp;stripped_title=extreme-javascript-performance&amp;userName=madrobby&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse2449719&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=2449719&amp;stripped_title=extreme-javascript-performance&amp;userName=madrobby&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/madrobby&quot;&gt;Thomas Fuchs&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sun Nov 08 06:47:40 -0600 2009</Created>
+  <Updated>Sun Nov 08 08:42:51 -0600 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/2449719.pdf?Signature=3GuQ45soql4XGXoXNY9d4H4fTKY%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>22412657</UserID>
+  <PPTLocation>2449719</PPTLocation>
+  <StrippedTitle>extreme-javascript-performance</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">javascrit</Tag>
+    <Tag Count="2" Owner="0">jsconfeu</Tag>
+    <Tag Count="1" Owner="0">webdev</Tag>
+    <Tag Count="1" Owner="0">performance thomasfuchs jsconf javascript</Tag>
+    <Tag Count="1" Owner="0">javascript optimization</Tag>
+    <Tag Count="1" Owner="0">jsconf2009</Tag>
+    <Tag Count="1" Owner="0">optimisation</Tag>
+    <Tag Count="1" Owner="0">javascript performance optimization</Tag>
+    <Tag Count="1" Owner="0">javascript performance speed</Tag>
+    <Tag Count="1" Owner="0">javascruipt</Tag>
+    <Tag Count="1" Owner="0">jsconfeu2009</Tag>
+    <Tag Count="1" Owner="0">tips</Tag>
+    <Tag Count="1" Owner="0">java</Tag>
+    <Tag Count="4" Owner="1">optimization</Tag>
+    <Tag Count="1" Owner="0">js performance</Tag>
+    <Tag Count="1" Owner="0">js javascript performance optimization</Tag>
+    <Tag Count="1" Owner="0">extreme javascript performance</Tag>
+    <Tag Count="3" Owner="0">jsconf</Tag>
+    <Tag Count="54" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">javascript optimize</Tag>
+    <Tag Count="1" Owner="0">programming javascript performance programmazione</Tag>
+    <Tag Count="1" Owner="0">javascript ajax aap</Tag>
+    <Tag Count="1" Owner="1">speed</Tag>
+    <Tag Count="18" Owner="1">performance</Tag>
+    <Tag Count="1" Owner="0">webperformance</Tag>
+    <Tag Count="1" Owner="0">performance js optimization</Tag>
+    <Tag Count="6" Owner="0">javascript performance</Tag>
+    <Tag Count="8" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">web</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>510</NumDownloads>
+  <NumViews>27600</NumViews>
+  <NumComments>10</NumComments>
+  <NumFavorites>128</NumFavorites>
+  <NumSlides>105</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="8">3738477</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">3549991</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">4014542</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">3337214</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">1635618</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">2273033</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">1372750</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">4070876</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">2514271</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">911882</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>50336</ID>
+  <Title>JavaScript Libraries: The Big Picture</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>simon</Username>
+  <URL>http://www.slideshare.net/simon/javascript-libraries-the-big-picture</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/javascript-libraries-the-big-picture-20285-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/javascript-libraries-the-big-picture-20285-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_50336&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/simon/javascript-libraries-the-big-picture&quot; title=&quot;JavaScript Libraries: The Big Picture&quot;&gt;JavaScript Libraries: The Big Picture&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse50336&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javascript-libraries-the-big-picture-20285&amp;stripped_title=javascript-libraries-the-big-picture&amp;userName=simon&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse50336&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=javascript-libraries-the-big-picture-20285&amp;stripped_title=javascript-libraries-the-big-picture&amp;userName=simon&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/simon&quot;&gt;Simon Willison&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Wed May 16 08:14:25 -0500 2007</Created>
+  <Updated>Wed May 16 08:14:25 -0500 2007</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/javascript-libraries-the-big-picture-20285.pdf?Signature=KfxaqWm6QIQhjGToei5n6TFIIPk%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>37220</UserID>
+  <PPTLocation>javascript-libraries-the-big-picture-20285</PPTLocation>
+  <StrippedTitle>javascript-libraries-the-big-picture</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">java script</Tag>
+    <Tag Count="1" Owner="0">browsers</Tag>
+    <Tag Count="2" Owner="0">big</Tag>
+    <Tag Count="1" Owner="0">domscripting</Tag>
+    <Tag Count="1" Owner="0">coding</Tag>
+    <Tag Count="1" Owner="0">framework</Tag>
+    <Tag Count="1" Owner="0">webdev</Tag>
+    <Tag Count="3" Owner="0">yui</Tag>
+    <Tag Count="1" Owner="0">librariy</Tag>
+    <Tag Count="1" Owner="0">javascript--good</Tag>
+    <Tag Count="1" Owner="1">javascriptlibraries</Tag>
+    <Tag Count="3" Owner="1">xtech</Tag>
+    <Tag Count="3" Owner="0">prototype</Tag>
+    <Tag Count="7" Owner="0">ajax</Tag>
+    <Tag Count="1" Owner="1">simonwillison</Tag>
+    <Tag Count="4" Owner="0">libraries</Tag>
+    <Tag Count="2" Owner="0">programming</Tag>
+    <Tag Count="2" Owner="0">the</Tag>
+    <Tag Count="37" Owner="1">javascript</Tag>
+    <Tag Count="3" Owner="0">dojo</Tag>
+    <Tag Count="2" Owner="0">libs</Tag>
+    <Tag Count="1" Owner="0">development</Tag>
+    <Tag Count="6" Owner="0">library</Tag>
+    <Tag Count="1" Owner="0">four</Tag>
+    <Tag Count="1" Owner="0">career</Tag>
+    <Tag Count="1" Owner="0">simon willison</Tag>
+    <Tag Count="1" Owner="0">willison</Tag>
+    <Tag Count="1" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">interaction</Tag>
+    <Tag Count="1" Owner="0">comparison</Tag>
+    <Tag Count="4" Owner="0">web</Tag>
+    <Tag Count="1" Owner="0">picture</Tag>
+    <Tag Count="3" Owner="0">jquery</Tag>
+    <Tag Count="1" Owner="0">more</Tag>
+    <Tag Count="1" Owner="1">xtech2007</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>1614</NumDownloads>
+  <NumViews>38096</NumViews>
+  <NumComments>8</NumComments>
+  <NumFavorites>49</NumFavorites>
+  <NumSlides>52</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">1254680</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">953269</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1727900</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">1173904</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">1339548</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">124803</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1180771</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1188958</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">193171</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">50336</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>1579430</ID>
+  <Title>Writing Efficient JavaScript</Title>
+  <Description>JavaScript is filled with things that make it slow. Learn what they are and how to deal with them.</Description>
+  <Status>2</Status>
+  <Username>nzakas</Username>
+  <URL>http://www.slideshare.net/nzakas/writing-efficient-javascript</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/writing-efficient-javascript-090613215922-phpapp01-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/writing-efficient-javascript-090613215922-phpapp01-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_1579430&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/nzakas/writing-efficient-javascript&quot; title=&quot;Writing Efficient JavaScript&quot;&gt;Writing Efficient JavaScript&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse1579430&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=writing-efficient-javascript-090613215922-phpapp01&amp;stripped_title=writing-efficient-javascript&amp;userName=nzakas&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse1579430&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=writing-efficient-javascript-090613215922-phpapp01&amp;stripped_title=writing-efficient-javascript&amp;userName=nzakas&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/nzakas&quot;&gt;Nicholas Zakas&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sat Jun 13 21:59:14 -0500 2009</Created>
+  <Updated>Mon Jun 22 20:34:03 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/writing-efficient-javascript-090613215922-phpapp01.pdf?Signature=YBDmS5lPC%2B03av4PmGspcIDtbJU%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>9524039</UserID>
+  <PPTLocation>writing-efficient-javascript-090613215922-phpapp01</PPTLocation>
+  <StrippedTitle>writing-efficient-javascript</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">zakas</Tag>
+    <Tag Count="2" Owner="0">efficient</Tag>
+    <Tag Count="1" Owner="0">webdev</Tag>
+    <Tag Count="2" Owner="0">javascript optimization</Tag>
+    <Tag Count="1" Owner="0">clientside</Tag>
+    <Tag Count="1" Owner="0">gwt</Tag>
+    <Tag Count="1" Owner="0">tips</Tag>
+    <Tag Count="1" Owner="0">javascriptotimiza&#231;&#227;o</Tag>
+    <Tag Count="1" Owner="0">1</Tag>
+    <Tag Count="1" Owner="0">desarrollo</Tag>
+    <Tag Count="27" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">js effective optimization</Tag>
+    <Tag Count="1" Owner="0">efficientjavascript</Tag>
+    <Tag Count="1" Owner="0">writing efficient javascript</Tag>
+    <Tag Count="1" Owner="1">speed</Tag>
+    <Tag Count="5" Owner="1">performance</Tag>
+    <Tag Count="1" Owner="0">writing efficient java script</Tag>
+    <Tag Count="1" Owner="0">writing</Tag>
+    <Tag Count="4" Owner="0">javascript performance</Tag>
+    <Tag Count="4" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">ppt</Tag>
+    <Tag Count="1" Owner="0">web</Tag>
+    <Tag Count="1" Owner="0">javascript performace</Tag>
+    <Tag Count="1" Owner="0">efficient js</Tag>
+    <Tag Count="1" Owner="0">jquery</Tag>
+    <Tag Count="1" Owner="0">dev</Tag>
+    <Tag Count="1" Owner="1">nzakas</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>643</NumDownloads>
+  <NumViews>21621</NumViews>
+  <NumComments>1</NumComments>
+  <NumFavorites>83</NumFavorites>
+  <NumSlides>139</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="2">4422769</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1071179</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">1640045</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">3843763</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">2724020</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">4404996</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">39717</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">2400000</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">2343307</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>93987</ID>
+  <Title>Building a JavaScript Library</Title>
+  <Description>This is the Google Tech Talk that I gave August 17th, 2007 on building a JavaScript library. I derived much of the talk from my experiences in building the jQuery and FUEL JavaScript libraries.</Description>
+  <Status>2</Status>
+  <Username>jeresig</Username>
+  <URL>http://www.slideshare.net/jeresig/building-a-javascript-library</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/building-a-javascript-library2560-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/building-a-javascript-library2560-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_93987&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/jeresig/building-a-javascript-library&quot; title=&quot;Building a JavaScript Library&quot;&gt;Building a JavaScript Library&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse93987&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=building-a-javascript-library2560&amp;stripped_title=building-a-javascript-library&amp;userName=jeresig&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse93987&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=building-a-javascript-library2560&amp;stripped_title=building-a-javascript-library&amp;userName=jeresig&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/jeresig&quot;&gt;jeresig&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sat Aug 18 22:02:24 -0500 2007</Created>
+  <Updated>Sat Aug 18 22:02:24 -0500 2007</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/building-a-javascript-library2560.pdf?Signature=uJvCwI3gVrt4Xw1rQtmN0mbe7m4%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>53665</UserID>
+  <PPTLocation>building-a-javascript-library2560</PPTLocation>
+  <StrippedTitle>building-a-javascript-library</StrippedTitle>
+  <Tags>
+    <Tag Count="5" Owner="0">building</Tag>
+    <Tag Count="1" Owner="0">web2.0</Tag>
+    <Tag Count="1" Owner="0">resig</Tag>
+    <Tag Count="1" Owner="0">domscripting</Tag>
+    <Tag Count="4" Owner="0">a</Tag>
+    <Tag Count="1" Owner="0">framework</Tag>
+    <Tag Count="1" Owner="0">webdev</Tag>
+    <Tag Count="1" Owner="0">usability</Tag>
+    <Tag Count="1" Owner="0">javascriptjquery</Tag>
+    <Tag Count="1" Owner="0">javascrtipt</Tag>
+    <Tag Count="1" Owner="0">libraly</Tag>
+    <Tag Count="1" Owner="0">javascript--good</Tag>
+    <Tag Count="1" Owner="0">lesen</Tag>
+    <Tag Count="1" Owner="0">javasript</Tag>
+    <Tag Count="2" Owner="1">firefox</Tag>
+    <Tag Count="1" Owner="0">internals</Tag>
+    <Tag Count="3" Owner="0">api</Tag>
+    <Tag Count="3" Owner="0">howto</Tag>
+    <Tag Count="1" Owner="0">language</Tag>
+    <Tag Count="2" Owner="0">ajax</Tag>
+    <Tag Count="2" Owner="1">fuel</Tag>
+    <Tag Count="1" Owner="0">js lib</Tag>
+    <Tag Count="1" Owner="0">lib</Tag>
+    <Tag Count="2" Owner="0">libraries</Tag>
+    <Tag Count="1" Owner="1">programming</Tag>
+    <Tag Count="2" Owner="1">google</Tag>
+    <Tag Count="1" Owner="0">lesons</Tag>
+    <Tag Count="1" Owner="0">rate1</Tag>
+    <Tag Count="1" Owner="1">engedu</Tag>
+    <Tag Count="2" Owner="1">techtalk</Tag>
+    <Tag Count="38" Owner="1">javascript</Tag>
+    <Tag Count="11" Owner="1">library</Tag>
+    <Tag Count="1" Owner="0">javascript library</Tag>
+    <Tag Count="1" Owner="0">ks</Tag>
+    <Tag Count="6" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">cool</Tag>
+    <Tag Count="1" Owner="0">software</Tag>
+    <Tag Count="1" Owner="0">john-resig</Tag>
+    <Tag Count="1" Owner="0">johnresig</Tag>
+    <Tag Count="3" Owner="0">design</Tag>
+    <Tag Count="16" Owner="1">jquery</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>1563</NumDownloads>
+  <NumViews>42651</NumViews>
+  <NumComments>4</NumComments>
+  <NumFavorites>73</NumFavorites>
+  <NumSlides>54</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">4202807</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">600849</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">976261</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">66628</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">4250291</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1915093</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">4254771</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">121383</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">85175</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">427274</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>303125</ID>
+  <Title>Secrets of JavaScript Libraries</Title>
+  <Description>This is the presentation from the &amp;quot;Secrets of JavaScript Libraries&amp;quot; panel at SXSW 2008.</Description>
+  <Status>2</Status>
+  <Username>jeresig</Username>
+  <URL>http://www.slideshare.net/jeresig/secrets-of-javascript-libraries</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/secrets-of-javascript-libraries-1205311956392030-5-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/secrets-of-javascript-libraries-1205311956392030-5-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_303125&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/jeresig/secrets-of-javascript-libraries&quot; title=&quot;Secrets of JavaScript Libraries&quot;&gt;Secrets of JavaScript Libraries&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse303125&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=secrets-of-javascript-libraries-1205311956392030-5&amp;stripped_title=secrets-of-javascript-libraries&amp;userName=jeresig&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse303125&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=secrets-of-javascript-libraries-1205311956392030-5&amp;stripped_title=secrets-of-javascript-libraries&amp;userName=jeresig&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/jeresig&quot;&gt;jeresig&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Wed Mar 12 01:52:38 -0500 2008</Created>
+  <Updated>Wed Mar 12 01:52:38 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/secrets-of-javascript-libraries-1205311956392030-5.pdf?Signature=rytmPvxquwju2jwhA66AqokQOLQ%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>53665</UserID>
+  <PPTLocation>secrets-of-javascript-libraries-1205311956392030-5</PPTLocation>
+  <StrippedTitle>secrets-of-javascript-libraries</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">fuchs</Tag>
+    <Tag Count="1" Owner="0">web2.0</Tag>
+    <Tag Count="1" Owner="0">javacript</Tag>
+    <Tag Count="3" Owner="0">resig</Tag>
+    <Tag Count="1" Owner="0">frameworks</Tag>
+    <Tag Count="2" Owner="0">of</Tag>
+    <Tag Count="1" Owner="0">webdev</Tag>
+    <Tag Count="1" Owner="0">de</Tag>
+    <Tag Count="1" Owner="0">dupont</Tag>
+    <Tag Count="2" Owner="0">john</Tag>
+    <Tag Count="1" Owner="0">jscript</Tag>
+    <Tag Count="3" Owner="0">secrets</Tag>
+    <Tag Count="1" Owner="0">stephenson</Tag>
+    <Tag Count="1" Owner="0">ajax</Tag>
+    <Tag Count="4" Owner="1">prototype</Tag>
+    <Tag Count="6" Owner="1">libraries</Tag>
+    <Tag Count="2" Owner="1">panel</Tag>
+    <Tag Count="33" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">javascrip</Tag>
+    <Tag Count="1" Owner="0">libs</Tag>
+    <Tag Count="2" Owner="0">library</Tag>
+    <Tag Count="3" Owner="1">dojo</Tag>
+    <Tag Count="1" Owner="0">jresig</Tag>
+    <Tag Count="1" Owner="0">secretos</Tag>
+    <Tag Count="6" Owner="0">js</Tag>
+    <Tag Count="5" Owner="1">sxsw</Tag>
+    <Tag Count="1" Owner="0">sxsw08</Tag>
+    <Tag Count="1" Owner="0">johnresig</Tag>
+    <Tag Count="1" Owner="0">guru</Tag>
+    <Tag Count="9" Owner="1">jquery</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>1150</NumDownloads>
+  <NumViews>35480</NumViews>
+  <NumComments>3</NumComments>
+  <NumFavorites>55</NumFavorites>
+  <NumSlides>78</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="5">93987</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">143885</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">145849</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">303125</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">454553</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">632753</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">908374</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1170972</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">1173904</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">3234795</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>390708</ID>
+  <Title>Unobtrusive JavaScript with jQuery</Title>
+  <Description>Slides from a three hour tutorial presented at XTech 2008 on the 6th of May. See also the supporting notes.</Description>
+  <Status>2</Status>
+  <Username>simon</Username>
+  <URL>http://www.slideshare.net/simon/unobtrusive-javascript-with-jquery</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/unobtrusivejquery-1210086958470711-9-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/unobtrusivejquery-1210086958470711-9-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_390708&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/simon/unobtrusive-javascript-with-jquery&quot; title=&quot;Unobtrusive JavaScript with jQuery&quot;&gt;Unobtrusive JavaScript with jQuery&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse390708&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=unobtrusivejquery-1210086958470711-9&amp;stripped_title=unobtrusive-javascript-with-jquery&amp;userName=simon&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse390708&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=unobtrusivejquery-1210086958470711-9&amp;stripped_title=unobtrusive-javascript-with-jquery&amp;userName=simon&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/simon&quot;&gt;Simon Willison&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Tue May 06 09:05:14 -0500 2008</Created>
+  <Updated>Tue May 06 21:17:59 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/unobtrusivejquery-1210086958470711-9.pdf?Signature=EBer0sc78zBW%2BU0cqJrL%2BO8hRkw%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>37220</UserID>
+  <PPTLocation>unobtrusivejquery-1210086958470711-9</PPTLocation>
+  <StrippedTitle>unobtrusive-javascript-with-jquery</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">unobtrusive javascript</Tag>
+    <Tag Count="1" Owner="0">turorial</Tag>
+    <Tag Count="1" Owner="1">unobtrusivejavascript</Tag>
+    <Tag Count="1" Owner="0">javascript unobbtrusive</Tag>
+    <Tag Count="1" Owner="0">javascript unobtrusive jquery</Tag>
+    <Tag Count="1" Owner="0">javascript jquery unobtrusive</Tag>
+    <Tag Count="1" Owner="0">javacript</Tag>
+    <Tag Count="1" Owner="0">resig</Tag>
+    <Tag Count="1" Owner="0">hot</Tag>
+    <Tag Count="2" Owner="1">xtech08</Tag>
+    <Tag Count="1" Owner="0">unobstructive</Tag>
+    <Tag Count="1" Owner="0">css</Tag>
+    <Tag Count="2" Owner="1">xtech</Tag>
+    <Tag Count="1" Owner="0">gwt</Tag>
+    <Tag Count="4" Owner="0">ajax</Tag>
+    <Tag Count="1" Owner="0">javascipt</Tag>
+    <Tag Count="9" Owner="0">unobtrusive</Tag>
+    <Tag Count="1" Owner="0">libraries</Tag>
+    <Tag Count="1" Owner="0">programming</Tag>
+    <Tag Count="1" Owner="0">javascript jquery</Tag>
+    <Tag Count="1" Owner="0">js javascript jquery</Tag>
+    <Tag Count="36" Owner="1">javascript</Tag>
+    <Tag Count="2" Owner="0">webdesign</Tag>
+    <Tag Count="1" Owner="0">unobtrusive js with jquery</Tag>
+    <Tag Count="1" Owner="0">ujs</Tag>
+    <Tag Count="3" Owner="0">tutorial</Tag>
+    <Tag Count="1" Owner="0">simon willison</Tag>
+    <Tag Count="1" Owner="0">willison</Tag>
+    <Tag Count="1" Owner="0">webdevelopment</Tag>
+    <Tag Count="6" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">software</Tag>
+    <Tag Count="2" Owner="0">web</Tag>
+    <Tag Count="1" Owner="0">unobstrusive</Tag>
+    <Tag Count="1" Owner="0">best practices</Tag>
+    <Tag Count="1" Owner="0">with</Tag>
+    <Tag Count="59" Owner="1">jquery</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>974</NumDownloads>
+  <NumViews>42983</NumViews>
+  <NumComments>10</NumComments>
+  <NumFavorites>100</NumFavorites>
+  <NumSlides>134</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">2424855</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1409520</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">632753</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">908356</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">1659450</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1579430</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1173904</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1984008</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">3843763</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">390708</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>1173904</ID>
+  <Title>More Secrets of JavaScript Libraries</Title>
+  <Description>A talk given by Nate Koechley (of YUI), Andrew Dupont (of Prototype), Becky Gibson (of Dojo), and myself (jQuery) at the 2009 SXSW.</Description>
+  <Status>2</Status>
+  <Username>jeresig</Username>
+  <URL>http://www.slideshare.net/jeresig/more-secrets-of-javascript-libraries</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/sxsw-secrets-09-090320072222-phpapp01-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/sxsw-secrets-09-090320072222-phpapp01-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_1173904&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/jeresig/more-secrets-of-javascript-libraries&quot; title=&quot;More Secrets of JavaScript Libraries&quot;&gt;More Secrets of JavaScript Libraries&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse1173904&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=sxsw-secrets-09-090320072222-phpapp01&amp;stripped_title=more-secrets-of-javascript-libraries&amp;userName=jeresig&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse1173904&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=sxsw-secrets-09-090320072222-phpapp01&amp;stripped_title=more-secrets-of-javascript-libraries&amp;userName=jeresig&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/jeresig&quot;&gt;jeresig&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Fri Mar 20 07:22:16 -0500 2009</Created>
+  <Updated>Fri Mar 20 10:34:42 -0500 2009</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/sxsw-secrets-09-090320072222-phpapp01.pdf?Signature=Die%2FGE6Dy6L4Hz9FFeYs2s8enWI%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>53665</UserID>
+  <PPTLocation>sxsw-secrets-09-090320072222-phpapp01</PPTLocation>
+  <StrippedTitle>more-secrets-of-javascript-libraries</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">javascript library unit test</Tag>
+    <Tag Count="1" Owner="0">get</Tag>
+    <Tag Count="1" Owner="0">resig</Tag>
+    <Tag Count="1" Owner="0">frameworks</Tag>
+    <Tag Count="1" Owner="0">of</Tag>
+    <Tag Count="1" Owner="0">by</Tag>
+    <Tag Count="1" Owner="0">john resig</Tag>
+    <Tag Count="1" Owner="0">aria</Tag>
+    <Tag Count="1" Owner="0">john</Tag>
+    <Tag Count="2" Owner="0">secrets</Tag>
+    <Tag Count="1" Owner="0">swarm</Tag>
+    <Tag Count="2" Owner="0">tips</Tag>
+    <Tag Count="4" Owner="1">libraries</Tag>
+    <Tag Count="1" Owner="0">more js lib secrets</Tag>
+    <Tag Count="28" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">2009</Tag>
+    <Tag Count="2" Owner="0">library</Tag>
+    <Tag Count="1" Owner="1">jslibraries</Tag>
+    <Tag Count="3" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">web</Tag>
+    <Tag Count="2" Owner="1">sxsw</Tag>
+    <Tag Count="1" Owner="0">loader</Tag>
+    <Tag Count="3" Owner="0">jquery</Tag>
+    <Tag Count="1" Owner="0">more</Tag>
+    <Tag Count="1" Owner="0">dev</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>518</NumDownloads>
+  <NumViews>13902</NumViews>
+  <NumComments>1</NumComments>
+  <NumFavorites>42</NumFavorites>
+  <NumSlides>148</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">2020432</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1579430</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">303125</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">2393233</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">2393250</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1867980</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1867979</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1173904</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">2996216</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3653076</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>632753</ID>
+  <Title>JavaScript Library Overview</Title>
+  <Description>Talk I gave at Ajax Experience &amp;rsquo;08.</Description>
+  <Status>2</Status>
+  <Username>jeresig</Username>
+  <URL>http://www.slideshare.net/jeresig/javascript-library-overview-presentation</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/jslibajaxexp08-1222984152388261-8-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/jslibajaxexp08-1222984152388261-8-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_632753&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/jeresig/javascript-library-overview-presentation&quot; title=&quot;JavaScript Library Overview&quot;&gt;JavaScript Library Overview&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse632753&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jslibajaxexp08-1222984152388261-8&amp;stripped_title=javascript-library-overview-presentation&amp;userName=jeresig&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse632753&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jslibajaxexp08-1222984152388261-8&amp;stripped_title=javascript-library-overview-presentation&amp;userName=jeresig&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/jeresig&quot;&gt;jeresig&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Thu Oct 02 14:51:04 -0500 2008</Created>
+  <Updated>Fri Oct 03 23:57:04 -0500 2008</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/jslibajaxexp08-1222984152388261-8.pdf?Signature=GANOc3r%2BgwaaiHDnwYHTO9xbCAE%3D&amp;Expires=1287634111&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>53665</UserID>
+  <PPTLocation>jslibajaxexp08-1222984152388261-8</PPTLocation>
+  <StrippedTitle>javascript-library-overview-presentation</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">raamistikud</Tag>
+    <Tag Count="1" Owner="0">web2.0</Tag>
+    <Tag Count="1" Owner="0">theajaxexperience2008</Tag>
+    <Tag Count="1" Owner="0">domscripting</Tag>
+    <Tag Count="2" Owner="0">framework</Tag>
+    <Tag Count="1" Owner="0">tae</Tag>
+    <Tag Count="2" Owner="0">yui</Tag>
+    <Tag Count="4" Owner="0">mootools</Tag>
+    <Tag Count="1" Owner="0">overview</Tag>
+    <Tag Count="3" Owner="0">prototype</Tag>
+    <Tag Count="1" Owner="0">gwt</Tag>
+    <Tag Count="2" Owner="0">ajax</Tag>
+    <Tag Count="1" Owner="1">libraries</Tag>
+    <Tag Count="25" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">chosse</Tag>
+    <Tag Count="4" Owner="0">dojo</Tag>
+    <Tag Count="5" Owner="0">library</Tag>
+    <Tag Count="1" Owner="0">javascript library</Tag>
+    <Tag Count="1" Owner="0">javascript-library-overview-presentation</Tag>
+    <Tag Count="3" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">compare</Tag>
+    <Tag Count="1" Owner="0">ajaxexperience</Tag>
+    <Tag Count="9" Owner="0">jquery</Tag>
+    <Tag Count="1" Owner="0">dev</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>662</NumDownloads>
+  <NumViews>33274</NumViews>
+  <NumComments>2</NumComments>
+  <NumFavorites>55</NumFavorites>
+  <NumSlides>94</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="6">5888</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">24850</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">26013</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">39399</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">44230</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">632753</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1661913</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">436897</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">4293614</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1032305</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+</Slideshows>

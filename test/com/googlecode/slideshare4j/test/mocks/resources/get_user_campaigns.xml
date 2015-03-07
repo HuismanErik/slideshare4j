@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Campaigns>
+    <LeadCampaign>
+        <Id>12</Id>
+        <Name>name of campaign</Name>
+        <SlideshowId>12</SlideshowId>
+        <RequiresPhone>{true or false}</RequiresPhone>
+        <RequiresAddress>{true or false}</RequiresAddress>
+        <TargetedRegion></TargetedRegion>
+        <ForTagged>{tag targeted(if any)}</ForTagged>
+        <CallToAction>{call to action text}</CallToAction>
+        <OfferText>{offer text}</OfferText>
+        <StartedAt>Sun Aug 29 10:04:48 -0500 2010</StartedAt>
+        <PausedAt>Sun Aug 29 10:04:48 -0500 2010</PausedAt>
+        <CreatedAt>Sun Aug 29 10:04:48 -0500 2010</CreatedAt>
+        <UpdatedAt>Sun Aug 29 10:04:48 -0500 2010</UpdatedAt>
+        <EndedAt>Sun Aug 29 10:04:48 -0500 2010</EndedAt>
+        <MaximumDailySpend currency="USD">123.67</MaximumDailySpend>
+        <CostPerLead currency="USD">{$}</CostPerLead>
+        <FormPosition>end</FormPosition>
+        <FormBlocking>true</FormBlocking>
+        <ForDownload>true</ForDownload>
+        <ForSidebar>false</ForSidebar>
+        <StateOfCampaign>Running</StateOfCampaign>
+    </LeadCampaign>
+    <PromotionCampaign>
+        <Id>12</Id>
+        <Name>personal</Name>
+        <SlideshowId>12</SlideshowId>
+        <TargetedRegion>India</TargetedRegion>
+        <ForTagged>personal</ForTagged>
+        <StartedAt>Sun Aug 29 10:04:48 -0500 2010</StartedAt>
+        <PausedAt>Sun Aug 29 10:04:48 -0500 2010</PausedAt>
+        <CreatedAt>Sun Aug 29 10:04:48 -0500 2010</CreatedAt>
+        <UpdatedAt>Sun Aug 29 10:04:48 -0500 2010</UpdatedAt>
+        <EndedAt>Sun Aug 29 10:04:48 -0500 2010</EndedAt>
+        <MaximumDailySpend>1235.90</MaximumDailySpend>
+        <SlideshareCategory>category name</SlideshareCategory>
+        <PromotionType>category</PromotionType>
+        <Cpc>12345.78</Cpc>
+        <ClicksToday>12</ClicksToday>
+        <ClicksAlltime>12</ClicksAlltime>
+        <ImpressionsToday>12</ImpressionsToday>
+        <ImpressionsAlltime>12</ImpressionsAlltime>
+        <Ctr>12.44</Ctr>
+        <PauseCause>userAction</PauseCause>
+        <StateOfCampaign>Paused</StateOfCampaign>
+    </PromotionCampaign>
+</Campaigns>

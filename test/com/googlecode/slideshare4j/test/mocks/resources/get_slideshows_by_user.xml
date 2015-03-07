@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User>
+  <Name>douglascrockford</Name>
+  <Count>13</Count>
+<Slideshow>
+  <ID>5081513</ID>
+  <Title>Crockford on JavaScript: Scene 6: Loopage</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/crockford-on-javascript-scene-6-loopage</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/6-100829100506-phpapp01-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/6-100829100506-phpapp01-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_5081513&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/crockford-on-javascript-scene-6-loopage&quot; title=&quot;Crockford on JavaScript: Scene 6: Loopage&quot;&gt;Crockford on JavaScript: Scene 6: Loopage&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse5081513&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=6-100829100506-phpapp01&amp;stripped_title=crockford-on-javascript-scene-6-loopage&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse5081513&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=6-100829100506-phpapp01&amp;stripped_title=crockford-on-javascript-scene-6-loopage&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sun Aug 29 10:04:48 -0500 2010</Created>
+  <Updated>Sun Aug 29 10:08:32 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/6-100829100506-phpapp01.pdf?Signature=JO%2BfhcLqnfIrM6zlZ5WNG6cms%2FU%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>6-100829100506-phpapp01</PPTLocation>
+  <StrippedTitle>crockford-on-javascript-scene-6-loopage</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="1">event loops</Tag>
+    <Tag Count="1" Owner="1">threads</Tag>
+    <Tag Count="1" Owner="1">read</Tag>
+    <Tag Count="1" Owner="1">javascript</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>10</NumDownloads>
+  <NumViews>390</NumViews>
+  <NumComments>1</NumComments>
+  <NumFavorites>0</NumFavorites>
+  <NumSlides>65</NumSlides>
+  <RelatedSlideshows>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>4419106</ID>
+  <Title>The JSON Saga</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/jsonsag</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/jsonsaga-100605143125-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/jsonsaga-100605143125-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_4419106&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/jsonsag&quot; title=&quot;The JSON Saga&quot;&gt;The JSON Saga&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse4419106&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jsonsaga-100605143125-phpapp02&amp;stripped_title=jsonsag&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse4419106&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=jsonsaga-100605143125-phpapp02&amp;stripped_title=jsonsag&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sat Jun 05 14:31:21 -0500 2010</Created>
+  <Updated>Tue Jun 08 12:29:30 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/jsonsaga-100605143125-phpapp02.pdf?Signature=7Y2P42WRhdDM9fjfsGOdQ0IZe1I%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>jsonsaga-100605143125-phpapp02</PPTLocation>
+  <StrippedTitle>jsonsag</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">mongo</Tag>
+    <Tag Count="1" Owner="0">javascript-json</Tag>
+    <Tag Count="1" Owner="1">xml</Tag>
+    <Tag Count="1" Owner="1">minimalism</Tag>
+    <Tag Count="1" Owner="1">txjs</Tag>
+    <Tag Count="1" Owner="1">standards</Tag>
+    <Tag Count="2" Owner="1">json</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>35</NumDownloads>
+  <NumViews>2713</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>10</NumFavorites>
+  <NumSlides>69</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="5">267879</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">831164</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1151785</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">1566754</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">1897643</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1931560</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">2323234</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">2621067</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">2621071</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">4419106</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>4419074</ID>
+  <Title>ECMAScript 5: The New and Improved Parts</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/newandimproved</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/newandimproved-100605142803-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/newandimproved-100605142803-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_4419074&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/newandimproved&quot; title=&quot;ECMAScript 5: The New and Improved Parts&quot;&gt;ECMAScript 5: The New and Improved Parts&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse4419074&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=newandimproved-100605142803-phpapp02&amp;stripped_title=newandimproved&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse4419074&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=newandimproved-100605142803-phpapp02&amp;stripped_title=newandimproved&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sat Jun 05 14:28:00 -0500 2010</Created>
+  <Updated>Tue Jun 08 12:29:22 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/newandimproved-100605142803-phpapp02.pdf?Signature=KketlBbTsQ6IyW%2FHmKvFYsrbztg%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>newandimproved-100605142803-phpapp02</PPTLocation>
+  <StrippedTitle>newandimproved</StrippedTitle>
+  <Tags>
+    <Tag Count="2" Owner="0">ecmascript5</Tag>
+    <Tag Count="1" Owner="1">security</Tag>
+    <Tag Count="2" Owner="1">html5</Tag>
+    <Tag Count="1" Owner="1">txjs</Tag>
+    <Tag Count="1" Owner="0">douglas crockford</Tag>
+    <Tag Count="3" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">js javascript js5</Tag>
+    <Tag Count="2" Owner="0">es5</Tag>
+    <Tag Count="1" Owner="0">ecmascript 5</Tag>
+    <Tag Count="1" Owner="0">js</Tag>
+    <Tag Count="1" Owner="1">ecmascript</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>42</NumDownloads>
+  <NumViews>2990</NumViews>
+  <NumComments>1</NumComments>
+  <NumFavorites>11</NumFavorites>
+  <NumSlides>49</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="7">21675</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">303125</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">495466</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">632753</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">2064979</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">2458207</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3221611</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">3457120</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">3771995</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">3827912</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>4335043</ID>
+  <Title>Gluing Together Wet Cats in a Crowd</Title>
+  <Description>Gluecon Keynote: Gluing Together Web Apps in the Cloud</Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/gluecon</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/gluecon-100527180139-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/gluecon-100527180139-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_4335043&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/gluecon&quot; title=&quot;Gluing Together Wet Cats in a Crowd&quot;&gt;Gluing Together Wet Cats in a Crowd&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse4335043&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=gluecon-100527180139-phpapp02&amp;stripped_title=gluecon&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse4335043&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=gluecon-100527180139-phpapp02&amp;stripped_title=gluecon&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Thu May 27 18:01:30 -0500 2010</Created>
+  <Updated>Thu May 27 18:05:10 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/gluecon-100527180139-phpapp02.pdf?Signature=FVcuRSdcKRgjs4g3sJ0Bp2UpfMk%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>gluecon-100527180139-phpapp02</PPTLocation>
+  <StrippedTitle>gluecon</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="1">html5</Tag>
+    <Tag Count="1" Owner="1">ie6</Tag>
+    <Tag Count="1" Owner="1">mashups</Tag>
+    <Tag Count="1" Owner="1">clown computing</Tag>
+    <Tag Count="1" Owner="1">json</Tag>
+    <Tag Count="2" Owner="1">javascript</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>12</NumDownloads>
+  <NumViews>1069</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>3</NumFavorites>
+  <NumSlides>35</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="4">5320</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">136296</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">250909</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">995015</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1101011</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1444937</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">1869681</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1891758</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">4293132</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">4335043</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3771995</ID>
+  <Title>Really. JavaScript</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/really-javascript-3771995</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/really-100419010134-phpapp01-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/really-100419010134-phpapp01-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3771995&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/really-javascript-3771995&quot; title=&quot;Really. JavaScript&quot;&gt;Really. JavaScript&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3771995&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=really-100419010134-phpapp01&amp;stripped_title=really-javascript-3771995&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3771995&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=really-100419010134-phpapp01&amp;stripped_title=really-javascript-3771995&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Mon Apr 19 01:01:14 -0500 2010</Created>
+  <Updated>Tue Apr 27 00:51:00 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/really-100419010134-phpapp01.pdf?Signature=%2BR2ficrfOvE2INXenrFZ%2F%2B7k5mM%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>really-100419010134-phpapp01</PPTLocation>
+  <StrippedTitle>really-javascript-3771995</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">javascript qcon2010</Tag>
+    <Tag Count="1" Owner="0">javascript douglas crockford web webstandard</Tag>
+    <Tag Count="1" Owner="0">javascript html5 security</Tag>
+    <Tag Count="1" Owner="1">xss</Tag>
+    <Tag Count="1" Owner="1">security</Tag>
+    <Tag Count="1" Owner="1">osdctw2010</Tag>
+    <Tag Count="1" Owner="1">html5</Tag>
+    <Tag Count="1" Owner="0">hmtl5</Tag>
+    <Tag Count="9" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">qcon2010</Tag>
+    <Tag Count="4" Owner="0">qcon</Tag>
+    <Tag Count="1" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">web</Tag>
+    <Tag Count="1" Owner="1">ecmascript</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>302</NumDownloads>
+  <NumViews>8593</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>42</NumFavorites>
+  <NumSlides>79</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="3">1653295</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">2020432</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">630870</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">3771995</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">1579430</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">303125</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">9620</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">160264</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">2454652</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3840763</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3614143</ID>
+  <Title>Crockford On JavaScript: Part 5: The End of All Things</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/crockford-on-javascript-part-5-the-end-of-all-things</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/5-100401113638-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/5-100401113638-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3614143&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/crockford-on-javascript-part-5-the-end-of-all-things&quot; title=&quot;Crockford On JavaScript: Part 5: The End of All Things&quot;&gt;Crockford On JavaScript: Part 5: The End of All Things&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3614143&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=5-100401113638-phpapp02&amp;stripped_title=crockford-on-javascript-part-5-the-end-of-all-things&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3614143&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=5-100401113638-phpapp02&amp;stripped_title=crockford-on-javascript-part-5-the-end-of-all-things&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Thu Apr 01 11:36:31 -0500 2010</Created>
+  <Updated>Thu Apr 01 11:52:31 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/5-100401113638-phpapp02.pdf?Signature=zC2ohcZ2m17sZ%2Fx5OlEpg1CXDdY%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>5-100401113638-phpapp02</PPTLocation>
+  <StrippedTitle>crockford-on-javascript-part-5-the-end-of-all-things</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">javasript douglascrockford</Tag>
+    <Tag Count="1" Owner="1">security</Tag>
+    <Tag Count="1" Owner="1">html5</Tag>
+    <Tag Count="2" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="1">performance</Tag>
+    <Tag Count="1" Owner="1">style</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>81</NumDownloads>
+  <NumViews>1444</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>5</NumFavorites>
+  <NumSlides>99</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="8">289017</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">562350</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">630645</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">656597</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">728987</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">1275823</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">3518182</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3614143</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">3771995</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">4395012</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3457120</ID>
+  <Title>The Tale of JavaScript</Title>
+  <Description>I mean ECMAScript</Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/the-tale-of-javascript</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/tale-100317111308-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/tale-100317111308-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3457120&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/the-tale-of-javascript&quot; title=&quot;The Tale of JavaScript&quot;&gt;The Tale of JavaScript&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3457120&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tale-100317111308-phpapp02&amp;stripped_title=the-tale-of-javascript&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3457120&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tale-100317111308-phpapp02&amp;stripped_title=the-tale-of-javascript&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Wed Mar 17 11:12:58 -0500 2010</Created>
+  <Updated>Wed Mar 17 11:13:27 -0500 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/tale-100317111308-phpapp02.pdf?Signature=pgVXT5Pwnn7%2BveGdN82shu344Yc%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>tale-100317111308-phpapp02</PPTLocation>
+  <StrippedTitle>the-tale-of-javascript</StrippedTitle>
+  <Tags>
+    <Tag Count="3" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">crockford</Tag>
+    <Tag Count="1" Owner="0">js</Tag>
+    <Tag Count="1" Owner="1">ecmascript</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>42</NumDownloads>
+  <NumViews>1830</NumViews>
+  <NumComments>2</NumComments>
+  <NumFavorites>7</NumFavorites>
+  <NumSlides>69</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="8">10184</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">193171</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">427243</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">917088</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1032528</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1358647</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">1964440</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">2064979</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3020087</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">3082115</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3337214</ID>
+  <Title>Crockford On JavaScript: Episode IV: The Metamorphosis of Ajax</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/crockford-on-javascript-episode-iv-the-metamorphosis-of-ajax</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/4-100304120033-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/4-100304120033-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3337214&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/crockford-on-javascript-episode-iv-the-metamorphosis-of-ajax&quot; title=&quot;Crockford On JavaScript: Episode IV: The Metamorphosis of Ajax&quot;&gt;Crockford On JavaScript: Episode IV: The Metamorphosis of Ajax&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3337214&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=4-100304120033-phpapp02&amp;stripped_title=crockford-on-javascript-episode-iv-the-metamorphosis-of-ajax&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3337214&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=4-100304120033-phpapp02&amp;stripped_title=crockford-on-javascript-episode-iv-the-metamorphosis-of-ajax&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Thu Mar 04 12:00:22 -0600 2010</Created>
+  <Updated>Thu Mar 04 12:00:54 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/4-100304120033-phpapp02.pdf?Signature=YA3fU%2BwK4EC%2FCwHr3XrjcDkPq%2FM%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>4-100304120033-phpapp02</PPTLocation>
+  <StrippedTitle>crockford-on-javascript-episode-iv-the-metamorphosis-of-ajax</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="1">dom</Tag>
+    <Tag Count="3" Owner="1">ajax</Tag>
+    <Tag Count="3" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">crockford</Tag>
+    <Tag Count="1" Owner="1">browser</Tag>
+    <Tag Count="1" Owner="0">web articles</Tag>
+    <Tag Count="1" Owner="0">js</Tag>
+    <Tag Count="2" Owner="1">web</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>464</NumDownloads>
+  <NumViews>4273</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>9</NumFavorites>
+  <NumSlides>106</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="7">5149</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">162633</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">191687</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">232885</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">321426</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">978961</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1358647</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">2456852</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">2685273</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">3344147</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3292746</ID>
+  <Title>JavaScript: The Good Parts</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/javascript-the-good-parts-3292746</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/goodparts-100227102642-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/goodparts-100227102642-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3292746&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/javascript-the-good-parts-3292746&quot; title=&quot;JavaScript: The Good Parts&quot;&gt;JavaScript: The Good Parts&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3292746&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=goodparts-100227102642-phpapp02&amp;stripped_title=javascript-the-good-parts-3292746&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3292746&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=goodparts-100227102642-phpapp02&amp;stripped_title=javascript-the-good-parts-3292746&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Sat Feb 27 10:26:26 -0600 2010</Created>
+  <Updated>Sat Feb 27 10:27:09 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/goodparts-100227102642-phpapp02.pdf?Signature=nL6nfE6dsOzcEr2dRgNoWnM%2FcQE%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>goodparts-100227102642-phpapp02</PPTLocation>
+  <StrippedTitle>javascript-the-good-parts-3292746</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">web</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>47</NumDownloads>
+  <NumViews>1767</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>3</NumFavorites>
+  <NumSlides>68</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="5">72514</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">371504</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">677666</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">795136</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">917088</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">1180771</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">1447479</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">2043409</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">3292746</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">3776294</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3199035</ID>
+  <Title>Crockford On JavaScript: Act III: Function the Ultimate</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/crockford-on-javascript-act-iii-function-the-ultimate</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/3-100216130350-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/3-100216130350-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3199035&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/crockford-on-javascript-act-iii-function-the-ultimate&quot; title=&quot;Crockford On JavaScript: Act III: Function the Ultimate&quot;&gt;Crockford On JavaScript: Act III: Function the Ultimate&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3199035&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=3-100216130350-phpapp02&amp;stripped_title=crockford-on-javascript-act-iii-function-the-ultimate&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3199035&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=3-100216130350-phpapp02&amp;stripped_title=crockford-on-javascript-act-iii-function-the-ultimate&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Tue Feb 16 13:03:42 -0600 2010</Created>
+  <Updated>Thu Feb 18 13:18:24 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>pdf</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/3-100216130350-phpapp02.pdf?Signature=%2BvSjRgJ9SmB3uBsNw8FUSoZ7KO8%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>3-100216130350-phpapp02</PPTLocation>
+  <StrippedTitle>crockford-on-javascript-act-iii-function-the-ultimate</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">functional javascript</Tag>
+    <Tag Count="1" Owner="0">yui</Tag>
+    <Tag Count="1" Owner="0">programming</Tag>
+    <Tag Count="2" Owner="0">function</Tag>
+    <Tag Count="5" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">act iii</Tag>
+    <Tag Count="2" Owner="0">crockford</Tag>
+    <Tag Count="1" Owner="0">js</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>688</NumDownloads>
+  <NumViews>8171</NumViews>
+  <NumComments>3</NumComments>
+  <NumFavorites>17</NumFavorites>
+  <NumSlides>91</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="10">119692</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">145849</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">153233</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">392972</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">495466</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">1002676</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1659450</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">2223617</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">2814937</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">3998401</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3199021</ID>
+  <Title>Crockford On JavaScript: Chapter 2: And Then There Was JavaScript</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/crockford-on-javascript-chapter-2-and-then-there-was-javascript</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/2-100216130239-phpapp01-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/2-100216130239-phpapp01-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3199021&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/crockford-on-javascript-chapter-2-and-then-there-was-javascript&quot; title=&quot;Crockford On JavaScript: Chapter 2: And Then There Was JavaScript&quot;&gt;Crockford On JavaScript: Chapter 2: And Then There Was JavaScript&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3199021&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=2-100216130239-phpapp01&amp;stripped_title=crockford-on-javascript-chapter-2-and-then-there-was-javascript&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3199021&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=2-100216130239-phpapp01&amp;stripped_title=crockford-on-javascript-chapter-2-and-then-there-was-javascript&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Tue Feb 16 13:02:32 -0600 2010</Created>
+  <Updated>Wed Feb 17 05:15:43 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/2-100216130239-phpapp01.ppt?Signature=NIt4XwiGmUP5FpgfI6tJVT%2FFjJ4%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>2-100216130239-phpapp01</PPTLocation>
+  <StrippedTitle>crockford-on-javascript-chapter-2-and-then-there-was-javascript</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">javascript</Tag>
+    <Tag Count="1" Owner="0">act ii</Tag>
+    <Tag Count="1" Owner="0">crockford</Tag>
+    <Tag Count="3" Owner="0">js</Tag>
+    <Tag Count="1" Owner="0">dev</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>441</NumDownloads>
+  <NumViews>3825</NumViews>
+  <NumComments>1</NumComments>
+  <NumFavorites>7</NumFavorites>
+  <NumSlides>104</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="2">55123</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1288048</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1564717</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1924100</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">2442224</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">2732988</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3199021</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">3853161</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">3877775</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">3890642</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>3198988</ID>
+  <Title>Crockford On JavaScript: Volume One: The Early Years</Title>
+  <Description></Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/crockford-on-javascript-volume-one-the-early-years</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/1-100216130102-phpapp02-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/1-100216130102-phpapp02-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_3198988&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/crockford-on-javascript-volume-one-the-early-years&quot; title=&quot;Crockford On JavaScript: Volume One: The Early Years&quot;&gt;Crockford On JavaScript: Volume One: The Early Years&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse3198988&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=1-100216130102-phpapp02&amp;stripped_title=crockford-on-javascript-volume-one-the-early-years&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse3198988&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=1-100216130102-phpapp02&amp;stripped_title=crockford-on-javascript-volume-one-the-early-years&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Tue Feb 16 13:00:36 -0600 2010</Created>
+  <Updated>Wed Feb 17 05:16:21 -0600 2010</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/1-100216130102-phpapp02.ppt?Signature=QYZl2%2FXkxgE2BZpFfBEWD0%2B%2Fkj0%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>1-100216130102-phpapp02</PPTLocation>
+  <StrippedTitle>crockford-on-javascript-volume-one-the-early-years</StrippedTitle>
+  <Tags>
+    <Tag Count="4" Owner="1">javascript</Tag>
+    <Tag Count="1" Owner="0">crockford</Tag>
+    <Tag Count="1" Owner="0">act i</Tag>
+    <Tag Count="2" Owner="0">js</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>433</NumDownloads>
+  <NumViews>4405</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>7</NumFavorites>
+  <NumSlides>93</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="6">21675</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">143885</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">193171</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">328036</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">436897</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">1579430</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">2424855</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">3020087</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">3198988</RelatedSlideshowID>
+    <RelatedSlideshowID rank="2">3614143</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+<Slideshow>
+  <ID>255587</ID>
+  <Title>Ajax Security</Title>
+  <Description>Presented at Web Directions North</Description>
+  <Status>2</Status>
+  <Username>douglascrockford</Username>
+  <URL>http://www.slideshare.net/douglascrockford/ajax-security-255587</URL>
+  <ThumbnailURL>http://cdn.slidesharecdn.com/ajax-security-1202338796997067-5-thumbnail</ThumbnailURL>
+  <ThumbnailSmallURL>http://cdn.slidesharecdn.com/ajax-security-1202338796997067-5-thumbnail-2</ThumbnailSmallURL>
+  <Embed>&lt;div style=&quot;width:425px&quot; id=&quot;__ss_255587&quot;&gt;&lt;strong style=&quot;display:block;margin:12px 0 4px&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/douglascrockford/ajax-security-255587&quot; title=&quot;Ajax Security&quot;&gt;Ajax Security&lt;/a&gt;&lt;/strong&gt;&lt;object id=&quot;__sse255587&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ajax-security-1202338796997067-5&amp;stripped_title=ajax-security-255587&amp;userName=douglascrockford&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;embed name=&quot;__sse255587&quot; src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=ajax-security-1202338796997067-5&amp;stripped_title=ajax-security-255587&amp;userName=douglascrockford&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;padding:5px 0 12px&quot;&gt;View more &lt;a href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a href=&quot;http://www.slideshare.net/douglascrockford&quot;&gt;Douglas Crockford&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;</Embed>
+  <Created>Wed Feb 06 14:59:58 -0600 2008</Created>
+  <Updated>Wed Feb 06 14:59:58 -0600 2008</Updated>
+  <Language>en</Language>
+  <Format>ppt</Format>
+  <Download>1</Download>
+  <DownloadUrl>http://s3.amazonaws.com/ppt-download/ajax-security-1202338796997067-5.ppt?Signature=5N5B71KeM2MGCs41GsJTJoYg4ig%3D&amp;Expires=1287634082&amp;AWSAccessKeyId=AKIAJLJT267DEGKZDHEQ</DownloadUrl>
+  <SlideshowType>0</SlideshowType>
+  <InContest>0</InContest>
+  <UserID>1173106</UserID>
+  <PPTLocation>ajax-security-1202338796997067-5</PPTLocation>
+  <StrippedTitle>ajax-security-255587</StrippedTitle>
+  <Tags>
+    <Tag Count="1" Owner="0">bestpractice</Tag>
+    <Tag Count="1" Owner="0">ajax security</Tag>
+    <Tag Count="1" Owner="0">xss</Tag>
+    <Tag Count="5" Owner="0">security</Tag>
+    <Tag Count="1" Owner="0">ajaxsecurity</Tag>
+    <Tag Count="5" Owner="0">ajax</Tag>
+    <Tag Count="2" Owner="0">javascript</Tag>
+    <Tag Count="1" Owner="0">risk</Tag>
+    <Tag Count="1" Owner="0">seguridad</Tag>
+  </Tags>
+  <Audio>0</Audio>
+  <NumDownloads>303</NumDownloads>
+  <NumViews>11034</NumViews>
+  <NumComments>0</NumComments>
+  <NumFavorites>12</NumFavorites>
+  <NumSlides>70</NumSlides>
+  <RelatedSlideshows>
+    <RelatedSlideshowID rank="2">174408</RelatedSlideshowID>
+    <RelatedSlideshowID rank="7">195376</RelatedSlideshowID>
+    <RelatedSlideshowID rank="1">255587</RelatedSlideshowID>
+    <RelatedSlideshowID rank="10">596899</RelatedSlideshowID>
+    <RelatedSlideshowID rank="8">645379</RelatedSlideshowID>
+    <RelatedSlideshowID rank="5">1628090</RelatedSlideshowID>
+    <RelatedSlideshowID rank="6">1653295</RelatedSlideshowID>
+    <RelatedSlideshowID rank="3">1659450</RelatedSlideshowID>
+    <RelatedSlideshowID rank="4">1738370</RelatedSlideshowID>
+    <RelatedSlideshowID rank="9">1984008</RelatedSlideshowID>
+  </RelatedSlideshows>
+  <PrivacyLevel>0</PrivacyLevel>
+  <FlagVisible>1</FlagVisible>
+  <ShowOnSS>0</ShowOnSS>
+  <SecretURL>0</SecretURL>
+  <AllowEmbed>0</AllowEmbed>
+  <ShareWithContacts>0</ShareWithContacts>
+</Slideshow>
+</User>
